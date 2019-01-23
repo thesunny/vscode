@@ -20,7 +20,12 @@
 ## In Code
 
 - Vim navigation
-- `cmt+opt+.` close a tag
+- `cmd+opt+.` close a tag
+
+## Markdown
+
+- `cmd+shift+v` View preview
+- `cmd+k v` View split screen preview
 
 ## Settings and Configuration
 

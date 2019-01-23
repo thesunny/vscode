@@ -1,35 +1,40 @@
 # Shortcuts
 
+Settings are synced via Settings Sync <https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync> and available here <https://gist.github.com/thesunny/3572d1be5f4eac359763e5c14a32303c>
+
 ## Navigation Shortcuts
 
-- `cmd+0` Sidebar
-- `cmd+1` Code
-- `cmd+2` Code Column 2
-- `ctrl+1` Tab
+- `cmd+0` sidebar
+- `cmd+1` code
+- `cmd+2` code Column 2
+- `ctrl+1` tab
 
-- `cmd+shift+e` Explorer (File)
-- `ctrl+shift+g` Git
-- `ctrl+backtick` Toggle Terminal
+- `cmd+shift+e` explorer
+- `ctrl+shift+g` git
+- `ctrl+backtick` toggle terminal
 
 ## In Sidebar
 
-- Vim navigation
+- vim navigation
 - `l` (right) to open a file
-- `cmd+down` to open a file (apparently works in finde)
+- `cmd+down` to open a file (apparently works in finder)
 
 ## In Code
 
-- Vim navigation
+- vim navigation
 - `cmd+opt+.` close a tag
 
 - `f9` sort alphabetically
 - `opt+s` sort javascript object
+- `\\s` search for character
 
 ## Markdown
 
-- `cmd+shift+v` View preview
-- `cmd+k v` View split screen preview
+- `cmd+shift+v` view preview
+- `cmd+k v` view split screen preview
 
 ## Settings and Configuration
 
-- `cmd+,` Open settings
+- `cmd+,` open settings
+- `shift+opt+u` upload sync settings
+- `shift+opt+d` download sync settings

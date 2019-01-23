@@ -22,6 +22,9 @@
 - Vim navigation
 - `cmd+opt+.` close a tag
 
+- `f9` sort alphabetically
+- `opt+s` sort javascript object
+
 ## Markdown
 
 - `cmd+shift+v` View preview

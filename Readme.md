@@ -28,7 +28,8 @@ Settings are synced via Settings Sync <https://marketplace.visualstudio.com/item
 - `opt+s` sort javascript object
 - `\\s` search for character
 
-- `opt+shift+f` format ussing prettier
+- `opt+shift+f` format using prettier
+- `cmd+opt+n` create a new file and name it first
 
 ## Markdown
 

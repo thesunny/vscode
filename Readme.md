@@ -9,6 +9,7 @@
 
 - `cmd+shift+e` Explorer (File)
 - `ctrl+shift+g` Git
+- `ctrl+backtick` Toggle Terminal
 
 ## In Sidebar
 

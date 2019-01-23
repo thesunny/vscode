@@ -10,8 +10,15 @@
   - Generate a token at the URL you get redirected to
   - This is my gist id `3572d1be5f4eac359763e5c14a32303c`
 
-## Mac OSX
 
+## Mac OSX VIM Setup
+
+- Key Repeat
+```
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false         # For VS Code
+defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false # For VS Code Insider
+defaults delete -g ApplePressAndHoldEnabled                                      # If necessary, reset global default
+```
 - Keyboard
   - Set `Key Repeat` to `Fast`
   - Set `Delay Until Repeat` to one notch left of `Short`

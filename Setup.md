@@ -1,5 +1,14 @@
 # Setup
 
+## VS Code
+
+- Install from <https://code.visualstudio.com/>
+- `cmd+shift+p` => `install extensions` => `Settings Sync`
+- `opt+shift+d` to download sync
+- It will ask for two tokens
+  - Generate a token at the URL you get redirected to
+  - This is my gist id `3572d1be5f4eac359763e5c14a32303c`
+
 ## Mac OSX
 
 - Keyboard

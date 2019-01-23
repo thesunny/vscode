@@ -28,6 +28,8 @@ Settings are synced via Settings Sync <https://marketplace.visualstudio.com/item
 - `opt+s` sort javascript object
 - `\\s` search for character
 
+- `opt+shift+f` format ussing prettier
+
 ## Markdown
 
 - `cmd+shift+v` view preview

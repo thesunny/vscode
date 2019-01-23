@@ -3,6 +3,7 @@
 ## VS Code
 
 - Install from <https://code.visualstudio.com/>
+- Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 - `cmd+shift+p` => `install extensions` => `Settings Sync`
 - `opt+shift+d` to download sync
 - It will ask for two tokens

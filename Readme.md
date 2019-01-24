@@ -23,6 +23,7 @@ Settings are synced via Settings Sync <https://marketplace.visualstudio.com/item
 
 - vim navigation
 - `cmd+opt+.` close a tag
+- `alt+q` reformat code
 
 - `f9` sort alphabetically
 - `opt+s` sort javascript object

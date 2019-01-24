@@ -11,13 +11,16 @@
   - This is my gist id `3572d1be5f4eac359763e5c14a32303c`
 
 
-## Mac OSX VIM Setup
+## Mac OSX Setup
 
-- Key Repeat
 ```
+# Key repeat
 defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false         # For VS Code
 defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false # For VS Code Insider
 defaults delete -g ApplePressAndHoldEnabled                                      # If necessary, reset global default
+
+# Bad fonts
+defaults write -g CGFontRenderingFontSmoothingDisabled -bool FALSE               # Fix wrong fonts on Mojave
 ```
 - Keyboard
   - Set `Key Repeat` to `Fast`
